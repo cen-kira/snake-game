@@ -86,6 +86,8 @@ public class JFrameTest extends JFrame
                 if(y1<0)
                 {
 
+
+                    // 这是注释
                     y1+=10;
 
                 }
