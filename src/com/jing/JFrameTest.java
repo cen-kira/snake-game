@@ -85,13 +85,8 @@ public class JFrameTest extends JFrame
                 y1-=10;
                 if(y1<0)
                 {
-
-
-                    // 这是注释
                     y1+=10;
-
                 }
-               // System.out.println(y1);
 
             }
             if(arg0.getKeyCode()==KeyEvent.VK_DOWN)
